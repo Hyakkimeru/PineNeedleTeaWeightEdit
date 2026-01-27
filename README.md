@@ -1,5 +1,4 @@
-
-![Screenshot](https://github.com/DemonBunnyBon/PineNeedleTea/blob/main/Thumb_PNT.png?raw=true)
+![Screen](https://raw.githubusercontent.com/DemonBunnyBon/ModListJson/refs/heads/main/Thumb_PNT.jpg)
 
 # Pine Needle Tea
 
