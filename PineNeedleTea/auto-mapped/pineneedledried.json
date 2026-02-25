@@ -3,7 +3,7 @@
         "DisplayNameLocalizationId": "GAMEPLAY_PineNeedleDried",
         "DescriptionLocalizatonId": "GAMEPLAY_PineNeedleDriedDescription",
         "InventoryActionLocalizationId": "",
-        "WeightKG": 0.1,
+        "WeightKG": 0.01,
         "DaysToDecay": 900,
         "MaxHP": 100,
         "InitialCondition": "Perfect",
@@ -27,5 +27,6 @@
         "UnitsPerItem": 1,
         "ChanceFull": 0
     }
+
 
 }
